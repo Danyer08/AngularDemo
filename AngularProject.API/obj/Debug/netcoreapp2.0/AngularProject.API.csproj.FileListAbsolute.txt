@@ -20,3 +20,14 @@ C:\Users\danje\Desktop\Git\angular-project\AngularProject.API\obj\Debug\netcorea
 C:\Users\danje\Desktop\Git\angular-project\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.AssemblyInfo.cs
 C:\Users\danje\Desktop\Git\angular-project\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.dll
 C:\Users\danje\Desktop\Git\angular-project\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.pdb
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\bin\Debug\netcoreapp2.0\AngularProject.API.deps.json
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\bin\Debug\netcoreapp2.0\AngularProject.API.runtimeconfig.json
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\bin\Debug\netcoreapp2.0\AngularProject.API.runtimeconfig.dev.json
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\bin\Debug\netcoreapp2.0\AngularProject.API.dll
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\bin\Debug\netcoreapp2.0\AngularProject.API.pdb
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.csprojAssemblyReference.cache
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.csproj.CoreCompileInputs.cache
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.AssemblyInfoInputs.cache
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.AssemblyInfo.cs
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.dll
+C:\Users\danje\Desktop\Git\AngularDemo\AngularProject.API\obj\Debug\netcoreapp2.0\AngularProject.API.pdb
