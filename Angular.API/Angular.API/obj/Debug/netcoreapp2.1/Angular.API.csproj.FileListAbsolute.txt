@@ -26,3 +26,17 @@ C:\Users\danje\Desktop\Git\angular-project\Angular.API\Angular.API\obj\Debug\net
 C:\Users\danje\Desktop\Git\angular-project\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.RazorTargetAssemblyInfo.cache
 C:\Users\danje\Desktop\Git\angular-project\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.dll
 C:\Users\danje\Desktop\Git\angular-project\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.pdb
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\bin\Debug\netcoreapp2.1\Angular.API.deps.json
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\bin\Debug\netcoreapp2.1\Angular.API.runtimeconfig.json
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\bin\Debug\netcoreapp2.1\Angular.API.runtimeconfig.dev.json
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\bin\Debug\netcoreapp2.1\Angular.API.dll
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\bin\Debug\netcoreapp2.1\Angular.API.pdb
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.csprojAssemblyReference.cache
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.csproj.CoreCompileInputs.cache
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.RazorAssemblyInfo.cache
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.RazorAssemblyInfo.cs
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.AssemblyInfoInputs.cache
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.AssemblyInfo.cs
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.RazorTargetAssemblyInfo.cache
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.dll
+C:\Users\danje\Desktop\Git\AngularDemo\Angular.API\Angular.API\obj\Debug\netcoreapp2.1\Angular.API.pdb
