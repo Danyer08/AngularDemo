@@ -5,18 +5,28 @@ import { NgZorroAntdModule, NZ_I18N, en_US } from 'ng-zorro-antd';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ValueComponent } from './value/value.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {NoopAnimationsModule} from '@angular/platform-browser/animations';
+import { FormsModule } from '@angular/forms';
+import { AuthService } from '../app/_services/auth.service';
 
 @NgModule({
    declarations: [
       AppComponent,
-      ValueComponent
+      ValueComponent,
+      NavbarComponent
    ],
    imports: [
       BrowserModule,
       AppRoutingModule,
-      HttpClientModule
+      HttpClientModule,
+      NgZorroAntdModule,
+      BrowserAnimationsModule,
+      NoopAnimationsModule,
+      FormsModule
    ],
-   providers: [],
+   providers   : [ { provide: NZ_I18N, useValue: en_US }, AuthService ],
    bootstrap: [
       AppComponent
    ]
